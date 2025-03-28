@@ -1,0 +1,41 @@
+/* Applying font and color to body */
+body {
+    font-family: Arial, sans-serif;
+    background-color:greenyellow;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Styling header */
+.title {
+    color:purple;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+/* Styling paragraph */
+.description {
+    color:blue;
+    font-size: 22px;
+    margin-bottom: 15px;
+}
+
+/* Styling image */
+#profile-img {
+    display: block;
+    width: 450px;
+    height: 250px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 20px auto;
+    padding: 5px;
+}
+
+/* Footer styling */
+.footer-text {
+    text-align: center;
+    font-size: 18px;
+    color: green;
+    margin-top: 30px;
+}
